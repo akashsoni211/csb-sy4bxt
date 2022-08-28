@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-sy4bxt/static/css/main.e04b4554.chunk.css",
+    "main.js": "https://.github.io/csb-sy4bxt/static/js/main.8c5f3fa7.chunk.js",
+    "main.js.map": "https://.github.io/csb-sy4bxt/static/js/main.8c5f3fa7.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-sy4bxt/static/js/runtime-main.eccf74b9.js",
+    "runtime-main.js.map": "https://.github.io/csb-sy4bxt/static/js/runtime-main.eccf74b9.js.map",
+    "static/js/2.ccb2c6df.chunk.js": "https://.github.io/csb-sy4bxt/static/js/2.ccb2c6df.chunk.js",
+    "static/js/2.ccb2c6df.chunk.js.map": "https://.github.io/csb-sy4bxt/static/js/2.ccb2c6df.chunk.js.map",
+    "index.html": "https://.github.io/csb-sy4bxt/index.html",
+    "static/css/main.e04b4554.chunk.css.map": "https://.github.io/csb-sy4bxt/static/css/main.e04b4554.chunk.css.map",
+    "static/js/2.ccb2c6df.chunk.js.LICENSE.txt": "https://.github.io/csb-sy4bxt/static/js/2.ccb2c6df.chunk.js.LICENSE.txt",
+    "static/media/musicLogo.e65e10bf.png": "https://.github.io/csb-sy4bxt/static/media/musicLogo.e65e10bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eccf74b9.js",
+    "static/js/2.ccb2c6df.chunk.js",
+    "static/css/main.e04b4554.chunk.css",
+    "static/js/main.8c5f3fa7.chunk.js"
+  ]
+}
